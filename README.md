@@ -19,13 +19,6 @@ The Solutions are coded using any one of the following languages
   </thead>
   <tbody>
     <tr>
-      <td align="center">Dynamic Programming</td>
-      <td align="center"><a href="https://www.hackerrank.com/challenges/fibonacci-modified/problem" rel="nofollow">Fibonacci Modified</a></td>
-      <td align="center">45</td>
-      <td align="center">Python 3</td>
-      <td align="center"><a href="https://www.hackerrank.com/challenges/fibonacci-modified/submissions/code/91461717">Solution</a></td>
-    </tr>
-    <tr>
       <td align="center">Greedy</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem" rel="nofollow">Sherlock and The Beast</a></td>
       <td align="center">30</td>
@@ -38,6 +31,13 @@ The Solutions are coded using any one of the following languages
       <td align="center">35</td>
       <td align="center">Python 3</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/angry-children/submissions/code/90942377">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Dynamic Programming</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/fibonacci-modified/problem" rel="nofollow">Fibonacci Modified</a></td>
+      <td align="center">45</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/fibonacci-modified/submissions/code/91461717">Solution</a></td>
     </tr>
     <tr>
       <td align="center">Strings</td>
