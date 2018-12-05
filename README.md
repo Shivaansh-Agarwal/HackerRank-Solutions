@@ -95,6 +95,34 @@ The Solutions are coded using any one of the following languages
       <td align="center">Python 3</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/sherlock-and-squares/submissions/code/91366069">Solution</a></td>
     </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/fair-rations/problem" rel="nofollow">Fair Rotations</a></td>
+      <td align="center">25</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/fair-rations/submissions/code/91298309">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/manasa-and-stones/problem" rel="nofollow">Manasa and Stones</a></td>
+      <td align="center">30</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/manasa-and-stones/submissions/code/91220566">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/cavity-map/problem" rel="nofollow">Cavity Map</a></td>
+      <td align="center">30</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/cavity-map/submissions/code/91135659">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/library-fine/problem" rel="nofollow">Library Fine</a></td>
+      <td align="center">15</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/library-fine/submissions/code/91130364">Solution</a></td>
+    </tr>
    </tbody>
 </table>
 <h2>Mathematics</h2>
