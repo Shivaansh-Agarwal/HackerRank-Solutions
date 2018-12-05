@@ -1,4 +1,11 @@
 # HackerRank Solutions
+<p>This repository contains my Solutions(mostly naive) to Hackerrank Problems</p>
+<p>The Solutions are coded using any one of the following languages</p>
+<ul>
+  <li>Java 8</li>
+  <li>Python 3</li>
+  <li>C</li>
+</ul>
 <h2>Algorithms</h2>
 <table>
   <thead>
