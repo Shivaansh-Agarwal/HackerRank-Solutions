@@ -163,6 +163,13 @@ The Solutions are coded using any one of the following languages:
       <td align="center">Python 3</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/chocolate-feast/submissions/code/91047643">Solution</a></td>
     </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/beautiful-triplets/problem" rel="nofollow">Beautiful Triplets</a></td>
+      <td align="center">20</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/beautiful-triplets/submissions/code/90876241">Solution</a></td>
+    </tr>
    </tbody>
 </table>
 <h2><a id="Mathematics" class="anchor" aria-hidden="true" href="#Mathematics">Mathematics</a></h2>
