@@ -165,7 +165,7 @@ The Solutions are coded using any one of the following languages:
     </tr>
    </tbody>
 </table>
-<h2><a id="Mathematics" class="anchor" aria-hidden="true" href="#Mathematics">Mathematics</h2>
+<h2><a id="Mathematics" class="anchor" aria-hidden="true" href="#Mathematics">Mathematics</a></h2>
 <table>
   <thead>
     <tr>
