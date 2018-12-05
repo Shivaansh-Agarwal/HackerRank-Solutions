@@ -19,6 +19,27 @@ The Solutions are coded using any one of the following languages
   </thead>
   <tbody>
     <tr>
+      <td align="center">Dynamic Programming</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/fibonacci-modified/problem" rel="nofollow">Fibonacci Modified</a></td>
+      <td align="center">45</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/fibonacci-modified/submissions/code/91461717">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Greedy</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem" rel="nofollow">Sherlock and The Beast</a></td>
+      <td align="center">30</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/submissions/code/90942532">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Greedy</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/angry-children/problem" rel="nofollow">Max Min</a></td>
+      <td align="center">35</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/angry-children/submissions/code/90942377">Solution</a></td>
+    </tr>
+    <tr>
       <td align="center">Strings</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/alternating-characters/problem" rel="nofollow">Alternating Characters</a></td>
       <td align="center">20</td>
@@ -122,6 +143,20 @@ The Solutions are coded using any one of the following languages
       <td align="center">15</td>
       <td align="center">Python 3</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/library-fine/submissions/code/91130364">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/between-two-sets/problem" rel="nofollow">Between Two Sets</a></td>
+      <td align="center">10</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/between-two-sets/submissions/code/91056193">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/chocolate-feast/problem" rel="nofollow">Chocolate Feast</a></td>
+      <td align="center">25</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/chocolate-feast/submissions/code/91047643">Solution</a></td>
     </tr>
    </tbody>
 </table>
