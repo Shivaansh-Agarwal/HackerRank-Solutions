@@ -39,5 +39,40 @@
       <td align="center">Python 3</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/funny-string/submissions/code/91981361">Solution</a></td>
     </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/kaprekar-numbers/problem" rel="nofollow">Modified Kaprekar Numbers</a></td>
+      <td align="center">30</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/kaprekar-numbers/submissions/code/91920031">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/cut-the-sticks/problem" rel="nofollow">Cut The Sticks</a></td>
+      <td align="center">25</td>
+      <td align="center">Java 8</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/cut-the-sticks/submissions/code/91846198">Solution</a></td>
+    </tr>
    </tbody>
 </table>
+<h2>Mathematics</h2>
+<table>
+  <thead>
+    <tr>
+      <th align="center">Subdomain</th>
+      <th align="center">Challenge</th>
+      <th align="center">Points</th>
+      <th align="center">Language</th>
+      <th align="center">Solution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Geometry</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/rectangular-game/problem" rel="nofollow">Rectangular Game</a></td>
+      <td align="center">20</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/rectangular-game/submissions/code/91765155">Solution</a></td>
+    </tr>
+  </tbody>
+ </table>
