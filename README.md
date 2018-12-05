@@ -6,7 +6,12 @@ The Solutions are coded using any one of the following languages:
   <li>Python 3</li>
   <li>C</li>
 </ul>
-<h2>Algorithms</h2>
+<h3>TOPICS</h3>
+<ul>
+  <li><a href="#Algorithms">Algorithms</a></li>
+  <li><a href="#Mathematics">Mathematics</a></li>
+</ul>
+<h2><a id="Algorithms" class="anchor" aria-hidden="true" href="#Algorithms">Algorithms</a></h2>
 <table>
   <thead>
     <tr>
@@ -160,7 +165,7 @@ The Solutions are coded using any one of the following languages:
     </tr>
    </tbody>
 </table>
-<h2>Mathematics</h2>
+<h2><a id="Mathematics" class="anchor" aria-hidden="true" href="#Mathematics">Mathematics</h2>
 <table>
   <thead>
     <tr>
