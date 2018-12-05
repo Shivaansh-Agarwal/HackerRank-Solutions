@@ -1,4 +1,5 @@
-# HackerRank
+# HackerRank Solutions
+<h2>Algorithms</h2>
 <table>
   <thead>
     <tr>
