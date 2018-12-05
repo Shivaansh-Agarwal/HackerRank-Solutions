@@ -1,6 +1,6 @@
 # HackerRank Solutions
-<p>This repository contains my Solutions(mostly naive) to Hackerrank Problems</p>
-The Solutions are coded using any one of the following languages
+<p>This repository contains my Solutions(mostly naive) to Hackerrank Problems.</p>
+The Solutions are coded using any one of the following languages:
 <ul>
   <li>Java 8</li>
   <li>Python 3</li>
