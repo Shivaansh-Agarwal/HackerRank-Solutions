@@ -47,6 +47,13 @@
       <td align="center"><a href="https://www.hackerrank.com/challenges/caesar-cipher-1/submissions/code/91435036">Solution</a></td>
     </tr>
     <tr>
+      <td align="center">Strings</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/beautiful-binary-string/problem" rel="nofollow">Beautiful Binary String</a></td>
+      <td align="center">20</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/beautiful-binary-string/submissions/code/91361202">Solution</a></td>
+    </tr>
+    <tr>
       <td align="center">Implementation</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/kaprekar-numbers/problem" rel="nofollow">Modified Kaprekar Numbers</a></td>
       <td align="center">30</td>
@@ -73,6 +80,13 @@
       <td align="center">25</td>
       <td align="center">Python 3</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/the-time-in-words/submissions/code/91594245">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/sherlock-and-squares/problem" rel="nofollow">Sherlock and Squares</a></td>
+      <td align="center">20</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/sherlock-and-squares/submissions/code/91366069">Solution</a></td>
     </tr>
    </tbody>
 </table>
