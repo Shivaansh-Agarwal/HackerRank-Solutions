@@ -40,6 +40,13 @@
       <td align="center"><a href="https://www.hackerrank.com/challenges/funny-string/submissions/code/91981361">Solution</a></td>
     </tr>
     <tr>
+      <td align="center">Strings</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/caesar-cipher-1/problem" rel="nofollow">Ceasar Cipher</a></td>
+      <td align="center">15</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/caesar-cipher-1/submissions/code/91435036">Solution</a></td>
+    </tr>
+    <tr>
       <td align="center">Implementation</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/kaprekar-numbers/problem" rel="nofollow">Modified Kaprekar Numbers</a></td>
       <td align="center">30</td>
@@ -52,6 +59,20 @@
       <td align="center">25</td>
       <td align="center">Java 8</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/cut-the-sticks/submissions/code/91846198">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/service-lane/problem" rel="nofollow">Service Lane</a></td>
+      <td align="center">20</td>
+      <td align="center">Java 8</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/service-lane/submissions/code/91681530">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/the-time-in-words/problem" rel="nofollow">The Time in Words</a></td>
+      <td align="center">25</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/the-time-in-words/submissions/code/91594245">Solution</a></td>
     </tr>
    </tbody>
 </table>
