@@ -45,6 +45,13 @@ The Solutions are coded using any one of the following languages:
       <td align="center"><a href="https://www.hackerrank.com/challenges/fibonacci-modified/submissions/code/91461717">Solution</a></td>
     </tr>
     <tr>
+      <td align="center">Sorting</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/closest-numbers/problem?isFullScreen=false" rel="nofollow">Closest Numbers</a></td>
+      <td align="center">35</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/closest-numbers/submissions/code/92424217">Solution</a></td>
+    </tr>
+    <tr>
       <td align="center">Strings</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/alternating-characters/problem" rel="nofollow">Alternating Characters</a></td>
       <td align="center">20</td>
