@@ -95,6 +95,20 @@ The Solutions are coded using any one of the following languages:
     </tr>
     <tr>
       <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/taum-and-bday/problem" rel="nofollow">Taum and B'day</a></td>
+      <td align="center">25</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/taum-and-bday/submissions/code/90804442">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/halloween-sale/problem" rel="nofollow">Holloween Sale</a></td>
+      <td align="center">20</td>
+      <td align="center">Python 3</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/halloween-sale/submissions/code/90875050">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Implementation</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/kaprekar-numbers/problem" rel="nofollow">Modified Kaprekar Numbers</a></td>
       <td align="center">30</td>
       <td align="center">Python 3</td>
