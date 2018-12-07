@@ -191,5 +191,12 @@ The Solutions are coded using any one of the following languages:
       <td align="center">Python 3</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/rectangular-game/submissions/code/91765155">Solution</a></td>
     </tr>
+    <tr>
+      <td align="center">Fundamentals</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/handshake/problem" rel="nofollow">Handshake</a></td>
+      <td align="center">10</td>
+      <td align="center">Java 8</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/handshake/submissions/code/92337015">Solution</a></td>
+    </tr>
   </tbody>
  </table>
