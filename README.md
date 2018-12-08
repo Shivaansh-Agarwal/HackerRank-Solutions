@@ -219,5 +219,12 @@ The Solutions are coded using any one of the following languages:
       <td align="center">Java 8</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/handshake/submissions/code/92337015">Solution</a></td>
     </tr>
+    <tr>
+      <td align="center">Fundamentals</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/best-divisor/problem?isFullScreen=false" rel="nofollow">Best Divisor</a></td>
+      <td align="center">20</td>
+      <td align="center">Java 8</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/best-divisor/submissions/code/92501683">Solution</a></td>
+    </tr>
   </tbody>
  </table>
