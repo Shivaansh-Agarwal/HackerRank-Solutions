@@ -53,6 +53,13 @@ The Solutions are coded using any one of the following languages:
     </tr>
     <tr>
       <td align="center">Strings</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/game-of-thrones/problem?isFullScreen=false" rel="nofollow">Game of Thrones - I</a></td>
+      <td align="center">30</td>
+      <td align="center">Java 8</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/game-of-thrones/submissions/code/92525277">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Strings</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/alternating-characters/problem" rel="nofollow">Alternating Characters</a></td>
       <td align="center">20</td>
       <td align="center">Python 3</td>
