@@ -222,6 +222,13 @@ The Solutions are coded using any one of the following languages:
     </tr>
     <tr>
       <td align="center">Fundamentals</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/restaurant/problem?isFullScreen=false&utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign" rel="nofollow">Restaurant</a></td>
+      <td align="center">30</td>
+      <td align="center">Java 8</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/restaurant/submissions/code/92629961">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Fundamentals</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/handshake/problem" rel="nofollow">Handshake</a></td>
       <td align="center">10</td>
       <td align="center">Java 8</td>
