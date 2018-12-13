@@ -109,6 +109,13 @@ The Solutions are coded using any one of the following languages:
       <td align="center"><a href="https://github.com/shiv-1998/HackerRank-Solutions/blob/master/Algorithms/Strings/String%20Construction.java">Solution</a></td>
     </tr>
     <tr>
+      <td align="center">Strings</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?isFullScreen=false" rel="nofollow">Sherlock and the Valid String</a></td>
+      <td align="center">35</td>
+      <td align="center">Java 8</td>
+      <td align="center"><a href="https://github.com/shiv-1998/HackerRank-Solutions/blob/master/Algorithms/Strings/Sherlock%20and%20the%20Valid%20String.java">Solution</a></td>
+    </tr>
+    <tr>
       <td align="center">Implementation</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/taum-and-bday/problem" rel="nofollow">Taum and B'day</a></td>
       <td align="center">25</td>
