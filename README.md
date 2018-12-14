@@ -11,6 +11,7 @@ The Solutions are coded using any one of the following languages:
 <ul>
   <li><a href="#Algorithms">Algorithms</a></li>
   <li><a href="#Mathematics">Mathematics</a></li>
+  <li><a href="#Java">Java</a></li>
 </ul>
 <h2><a id="Algorithms" class="anchor" aria-hidden="true" href="#Algorithms">Algorithms</a></h2>
 <table>
@@ -257,3 +258,24 @@ The Solutions are coded using any one of the following languages:
     </tr>
   </tbody>
  </table>
+<h2><a id="Java" class="anchor" aria-hidden="true" href="#Java">Java</a></h2>
+<table>
+  <thead>
+    <tr>
+      <th align="center">Subdomain</th>
+      <th align="center">Challenge</th>
+      <th align="center">Points</th>
+      <th align="center">Language</th>
+      <th align="center">Solution</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Strings</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/java-anagrams/problem?isFullScreen=false" rel="nofollow">Java Anagrams</a></td>
+      <td align="center">10</td>
+      <td align="center">Java 8</td>
+      <td align="center"><a href="https://github.com/shiv-1998/HackerRank-Solutions/blob/master/Java/Strings/Java%20Anagrams.java">Solution</a></td>
+    </tr>
+  </tbody>
+</table>
