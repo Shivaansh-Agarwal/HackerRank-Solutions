@@ -30,7 +30,7 @@ The Solutions are coded using any one of the following languages:
       <td align="center"><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem" rel="nofollow">Sherlock and The Beast</a></td>
       <td align="center">30</td>
       <td align="center">Python 3</td>
-      <td align="center"><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/submissions/code/90942532">Solution</a></td>
+      <td align="center"><a href="https://github.com/shiv-1998/HackerRank-Solutions/blob/master/Algorithms/Greedy/Sherlock%20and%20the%20Beast.py">Solution</a></td>
     </tr>
     <tr>
       <td align="center">Greedy</td>
