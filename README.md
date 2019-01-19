@@ -256,6 +256,13 @@ The Solutions are coded using any one of the following languages:
       <td align="center">Java 8</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/best-divisor/submissions/code/92501683">Solution</a></td>
     </tr>
+    <tr>
+      <td align="center">Fundamentals</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=false" rel="nofollow">Maximum Draws</a></td>
+      <td align="center">5</td>
+      <td align="center">Java</td>
+      <td align="center"><a href="https://github.com/shiv-1998/HackerRank-Solutions/blob/master/Mathematics/Maximum_Draws.java">Solution</a></td>
+    </tr>
   </tbody>
  </table>
 <h2><a id="Java" class="anchor" aria-hidden="true" href="#Java">Java</a></h2>
