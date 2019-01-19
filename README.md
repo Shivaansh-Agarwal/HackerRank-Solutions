@@ -260,8 +260,15 @@ The Solutions are coded using any one of the following languages:
       <td align="center">Fundamentals</td>
       <td align="center"><a href="https://www.hackerrank.com/challenges/maximum-draws/problem?isFullScreen=false" rel="nofollow">Maximum Draws</a></td>
       <td align="center">5</td>
-      <td align="center">Java</td>
+      <td align="center">Java 8</td>
       <td align="center"><a href="https://github.com/shiv-1998/HackerRank-Solutions/blob/master/Mathematics/Maximum_Draws.java">Solution</a></td>
+    </tr>
+    <tr>
+      <td align="center">Fundamentals</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/lowest-triangle/problem" rel="nofollow">Minimum Height Triangle</a></td>
+      <td align="center">10</td>
+      <td align="center">Java 8</td>
+      <td align="center"><a href="https://github.com/shiv-1998/HackerRank-Solutions/blob/master/Mathematics/Minimum_Height_Triangle.java">Solution</a></td>
     </tr>
   </tbody>
  </table>
