@@ -270,6 +270,13 @@ The Solutions are coded using any one of the following languages:
       <td align="center">Java 8</td>
       <td align="center"><a href="https://github.com/shiv-1998/HackerRank-Solutions/blob/master/Mathematics/Minimum_Height_Triangle.java">Solution</a></td>
     </tr>
+    <tr>
+      <td align="center">Fundamentals</td>
+      <td align="center"><a href="https://www.hackerrank.com/challenges/p1-paper-cutting/problem?isFullScreen=false" rel="nofollow">Cutting Paper Squares</a></td>
+      <td align="center">15</td>
+      <td align="center">Java 8</td>
+      <td align="center"><a href="https://github.com/shiv-1998/HackerRank-Solutions/blob/master/Mathematics/Cutting_Paper_Squares.java">Solution</a></td>
+    </tr>
   </tbody>
  </table>
 <h2><a id="Java" class="anchor" aria-hidden="true" href="#Java">Java</a></h2>
